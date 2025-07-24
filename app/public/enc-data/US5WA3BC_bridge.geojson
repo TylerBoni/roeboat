@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BRIDGE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 175, "PRIM": 3, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 58189254, "FIDS": 5526, "LNAM": "02260377E5C61596", "CATBRG": [ "1" ], "HORCLR": 40.8, "VERCLR": 11.2, "VERDAT": 24, "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.4038897, 45.5770472 ], [ -122.4038726, 45.577297 ], [ -122.403262, 45.5773903 ], [ -122.4032449, 45.577148 ], [ -122.4038897, 45.5770472 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 176, "PRIM": 3, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 64003108, "FIDS": 5526, "LNAM": "022603D09C241596", "CATBRG": [ "1" ], "HORCLR": 70.1, "VERCLR": 21.0, "VERDAT": 24, "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.4225605, 45.5772065 ], [ -122.422253, 45.5772822 ], [ -122.4225646, 45.577502 ], [ -122.4225751, 45.5775092 ], [ -122.4234272, 45.5780953 ], [ -122.4236798, 45.578269 ], [ -122.4240174, 45.5782222 ], [ -122.4237319, 45.5780206 ], [ -122.4229858, 45.5774937 ], [ -122.422898, 45.5774317 ], [ -122.4225605, 45.5772065 ] ] ] } }
+]
+}

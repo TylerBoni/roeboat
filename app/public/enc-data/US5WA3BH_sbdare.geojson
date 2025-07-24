@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SBDARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 823, "PRIM": 1, "GRUP": 2, "OBJL": 121, "RVER": 1, "AGEN": 550, "FIDN": 950276936, "FIDS": 5526, "LNAM": "022638A413481596", "NATSUR": [ "4", "6" ], "SCAMIN": 29999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.085731, 45.5952522 ] } }
+]
+}

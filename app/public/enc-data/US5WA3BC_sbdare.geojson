@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SBDARE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1442, "PRIM": 3, "GRUP": 2, "OBJL": 121, "RVER": 1, "AGEN": 550, "FIDN": 346127867, "FIDS": 5526, "LNAM": "022614A17DFB1596", "NATSUR": [ "9" ], "WATLEV": 4, "SCAMIN": 29999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.4173624, 45.5699674 ], [ -122.4173607, 45.5699681 ], [ -122.4169522, 45.5699703 ], [ -122.4167003, 45.5699723 ], [ -122.4166264, 45.5699729 ], [ -122.4165403, 45.5699965 ], [ -122.4164134, 45.570304 ], [ -122.4167244, 45.5702859 ], [ -122.4169762, 45.5702599 ], [ -122.4170798, 45.5702391 ], [ -122.4172316, 45.5702131 ], [ -122.4175499, 45.5701976 ], [ -122.417398, 45.5699904 ], [ -122.4173624, 45.5699674 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1443, "PRIM": 1, "GRUP": 2, "OBJL": 121, "RVER": 1, "AGEN": 550, "FIDN": 581016070, "FIDS": 5526, "LNAM": "022622A19A061596", "NATSUR": [ "4", "6" ], "SCAMIN": 29999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.4347115, 45.56844 ] } },
+{ "type": "Feature", "properties": { "RCID": 1444, "PRIM": 1, "GRUP": 2, "OBJL": 121, "RVER": 1, "AGEN": 550, "FIDN": 935880612, "FIDS": 5526, "LNAM": "022637C867A41596", "NATSUR": [ "4" ], "SCAMIN": 29999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.4445463, 45.5731934 ] } }
+]
+}

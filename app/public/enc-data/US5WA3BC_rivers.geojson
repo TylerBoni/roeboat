@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RIVERS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 512, "PRIM": 2, "GRUP": 2, "OBJL": 114, "RVER": 1, "AGEN": 550, "FIDN": 650468599, "FIDS": 5526, "LNAM": "022626C55CF71596", "SCAMIN": 29999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.438464, 45.5759043 ], [ -122.4376643, 45.5764019 ], [ -122.4370249, 45.5769144 ], [ -122.4369312, 45.5770171 ], [ -122.436888, 45.5770694 ], [ -122.4368519, 45.5771162 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 513, "PRIM": 2, "GRUP": 2, "OBJL": 114, "RVER": 1, "AGEN": 550, "FIDN": 725369616, "FIDS": 5526, "LNAM": "02262B3C43101596", "SCAMIN": 29999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4661664, 45.5615569 ], [ -122.4656233, 45.5615538 ], [ -122.4639741, 45.5614627 ] ] } }
+]
+}

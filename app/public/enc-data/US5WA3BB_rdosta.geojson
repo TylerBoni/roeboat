@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RDOSTA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 15, "PRIM": 1, "GRUP": 2, "OBJL": 105, "RVER": 1, "AGEN": 550, "FIDN": 255879862, "FIDS": 3589, "LNAM": "02260F406AB60E05", "CALSGN": "(KWJJ)", "CATROS": [ ], "SIGFRQ": 1080000, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.4872667, 45.5581502 ] } },
+{ "type": "Feature", "properties": { "RCID": 16, "PRIM": 1, "GRUP": 2, "OBJL": 105, "RVER": 1, "AGEN": 550, "FIDN": 255879863, "FIDS": 3589, "LNAM": "02260F406AB70E05", "CALSGN": "(KWJJ)", "CATROS": [ ], "SIGFRQ": 1080000, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.4863579, 45.5582521 ] } }
+]
+}

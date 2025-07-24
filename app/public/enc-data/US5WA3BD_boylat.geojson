@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BOYLAT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 9, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 153470636, "FIDS": 4508, "LNAM": "02260925C6AC119C", "BOYSHP": 1, "CATLAM": 2, "COLOUR": [ "3" ], "OBJNAM": "Lady Island Shoal Buoy 46", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20040507", "SORIND": "US,US,reprt,13thCGD,ATONIS" }, "geometry": { "type": "Point", "coordinates": [ -122.3892214, 45.5741216 ] } },
+{ "type": "Feature", "properties": { "RCID": 10, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 920041671, "FIDS": 2009, "LNAM": "022636D6B8C707D9", "LNAM_REFS": [ "02261BEC42F407D9" ], "FFPT_RIND": [ 2 ], "BOYSHP": 4, "CATLAM": 2, "COLOUR": [ "3" ], "OBJNAM": "Gary Island Channel Lighted Buoy 54", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20221005", "SORIND": "US,US,reprt,13thCGD,LNM 40/22" }, "geometry": { "type": "Point", "coordinates": [ -122.3378439, 45.5552778 ] } },
+{ "type": "Feature", "properties": { "RCID": 11, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 255874680, "FIDS": 3589, "LNAM": "02260F4056780E05", "BOYSHP": 2, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Ough Reef Buoy 49", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20040507", "SORIND": "US,US,reprt,13thCGD,ATONIS" }, "geometry": { "type": "Point", "coordinates": [ -122.3604642, 45.5719815 ] } },
+{ "type": "Feature", "properties": { "RCID": 12, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 255874679, "FIDS": 3589, "LNAM": "02260F4056770E05", "BOYSHP": 1, "CATLAM": 2, "COLOUR": [ "3" ], "OBJNAM": "Washougal Buoy 48", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20040507", "SORIND": "US,US,reprt,13thCGD,ATONIS" }, "geometry": { "type": "Point", "coordinates": [ -122.3646906, 45.5716009 ] } }
+]
+}

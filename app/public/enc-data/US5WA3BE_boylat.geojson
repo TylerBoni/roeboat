@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BOYLAT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 2, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 264680695, "FIDS": 3996, "LNAM": "02260FC6B4F70F9C", "BOYSHP": 2, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Reed Island Reach Lighted Buoy 61", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20210721", "SORIND": "US,US,reprt,13thCGD,LNM 29/21" }, "geometry": { "type": "Point", "coordinates": [ -122.30057, 45.5461994 ] } },
+{ "type": "Feature", "properties": { "RCID": 3, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 354435207, "FIDS": 8517, "LNAM": "0226152040872145", "LNAM_REFS": [ "02262BF4E3AA2145" ], "FFPT_RIND": [ 2 ], "BOYSHP": 4, "CATLAM": 2, "COLOUR": [ "3" ], "OBJNAM": "Gary Island Channel Lighted Buoy 56", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20221005", "SORIND": "US,US,reprt,13thCGD,LNM 40/22" }, "geometry": { "type": "Point", "coordinates": [ -122.3247319, 45.5491667 ] } },
+{ "type": "Feature", "properties": { "RCID": 4, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 255874682, "FIDS": 3589, "LNAM": "02260F40567A0E05", "BOYSHP": 2, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Point Vancouver Buoy 65", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20041129", "SORIND": "US,US,reprt,13thCGD,ATONIS" }, "geometry": { "type": "Point", "coordinates": [ -122.2683267, 45.5458295 ] } }
+]
+}

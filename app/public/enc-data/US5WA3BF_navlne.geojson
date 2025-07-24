@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NAVLNE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 932, "PRIM": 2, "GRUP": 2, "OBJL": 85, "RVER": 1, "AGEN": 550, "FIDN": 630232444, "FIDS": 64263, "LNAM": "02262590957CFB07", "CATNAV": 3, "ORIENT": 62.2, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.23665, 45.551961 ], [ -122.2001898, 45.5654734 ], [ -122.1996562, 45.5656711 ], [ -122.1985164, 45.5660934 ], [ -122.1979192, 45.5663147 ], [ -122.1963038, 45.5669132 ], [ -122.1945338, 45.567569 ], [ -122.1917781, 45.56859 ], [ -122.1857063, 45.5708396 ], [ -122.1853242, 45.5709812 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 933, "PRIM": 2, "GRUP": 2, "OBJL": 85, "RVER": 1, "AGEN": 550, "FIDN": 336629214, "FIDS": 64263, "LNAM": "022614108DDEFB07", "CATNAV": 3, "ORIENT": 77.9, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.1781426, 45.5774332 ], [ -122.175, 45.5779064 ] ] } }
+]
+}

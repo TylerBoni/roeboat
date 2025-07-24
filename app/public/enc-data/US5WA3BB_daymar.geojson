@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DAYMAR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 6, "PRIM": 1, "GRUP": 2, "OBJL": 39, "RVER": 1, "AGEN": 550, "FIDN": 255875246, "FIDS": 3589, "LNAM": "02260F4058AE0E05", "COLOUR": [ "3", "2", "3" ], "COLPAT": [ "2" ], "TOPSHP": 21, "SCAMIN": 59999, "SORDAT": "20121030", "SORIND": "US,US,reprt,13thCGD,LNM 44/12" }, "geometry": { "type": "Point", "coordinates": [ -122.5347842, 45.5876092 ] } },
+{ "type": "Feature", "properties": { "RCID": 7, "PRIM": 1, "GRUP": 2, "OBJL": 39, "RVER": 1, "AGEN": 550, "FIDN": 255875248, "FIDS": 3589, "LNAM": "02260F4058B00E05", "COLOUR": [ "3", "2", "3" ], "COLPAT": [ "2" ], "TOPSHP": 21, "SCAMIN": 59999, "SORDAT": "20121030", "SORIND": "US,US,reprt,13thCGD,LNM 44/12" }, "geometry": { "type": "Point", "coordinates": [ -122.5319122, 45.5873294 ] } },
+{ "type": "Feature", "properties": { "RCID": 8, "PRIM": 1, "GRUP": 2, "OBJL": 39, "RVER": 1, "AGEN": 550, "FIDN": 255875249, "FIDS": 3589, "LNAM": "02260F4058B10E05", "COLOUR": [ "3", "1", "3" ], "COLPAT": [ "2" ], "TOPSHP": 21, "SCAMIN": 59999, "SORDAT": "20121030", "SORIND": "US,US,reprt,13thCGD,LNM 44/12" }, "geometry": { "type": "Point", "coordinates": [ -122.4988558, 45.5807122 ] } },
+{ "type": "Feature", "properties": { "RCID": 9, "PRIM": 1, "GRUP": 2, "OBJL": 39, "RVER": 1, "AGEN": 550, "FIDN": 255875251, "FIDS": 3589, "LNAM": "02260F4058B30E05", "COLOUR": [ "3", "1", "3" ], "COLPAT": [ "2" ], "TOPSHP": 21, "SCAMIN": 59999, "SORDAT": "20121030", "SORIND": "US,US,reprt,13thCGD,LNM 44/12" }, "geometry": { "type": "Point", "coordinates": [ -122.4945933, 45.5793342 ] } }
+]
+}

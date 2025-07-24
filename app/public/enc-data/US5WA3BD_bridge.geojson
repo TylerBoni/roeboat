@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BRIDGE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 112, "PRIM": 3, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 639813529, "FIDS": 5526, "LNAM": "02262622C7991596", "CATBRG": [ "1" ], "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3849356, 45.5450712 ], [ -122.384705, 45.5450584 ], [ -122.3846778, 45.544833 ], [ -122.3849056, 45.5448528 ], [ -122.3849356, 45.5450712 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 113, "PRIM": 3, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 536228396, "FIDS": 5526, "LNAM": "02261FF6322C1596", "CATBRG": [ "1" ], "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3855955, 45.5451102 ], [ -122.3855467, 45.5448717 ], [ -122.3857549, 45.5448813 ], [ -122.3858218, 45.5448844 ], [ -122.3858501, 45.5451301 ], [ -122.3855955, 45.5451102 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 114, "PRIM": 3, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 845199898, "FIDS": 5526, "LNAM": "02263260BA1A1596", "CATBRG": [ "1" ], "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3971331, 45.5841966 ], [ -122.3966742, 45.584158 ], [ -122.3963304, 45.5841351 ], [ -122.3959253, 45.5840918 ], [ -122.3961215, 45.5838813 ], [ -122.3971466, 45.5840122 ], [ -122.3971331, 45.5841966 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 126, "PRIM": 2, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 48045435, "FIDS": 5526, "LNAM": "022602DD1D7B1596", "CATBRG": [ "1" ], "INFORM": "Railway Bridge", "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.3962581, 45.5843184 ], [ -122.3957937, 45.584263 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 127, "PRIM": 2, "GRUP": 2, "OBJL": 11, "RVER": 1, "AGEN": 550, "FIDN": 15261066, "FIDS": 5526, "LNAM": "022600E8DD8A1596", "CATBRG": [ "1" ], "INFORM": "Railway Bridge", "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.3971248, 45.5843882 ], [ -122.3966929, 45.5843694 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PILPNT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 912, "PRIM": 1, "GRUP": 2, "OBJL": 90, "RVER": 1, "AGEN": 550, "FIDN": 592826112, "FIDS": 5526, "LNAM": "02262355CF001596", "CATPLE": 3, "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.306172, 45.5412669 ] } },
+{ "type": "Feature", "properties": { "RCID": 913, "PRIM": 1, "GRUP": 2, "OBJL": 90, "RVER": 1, "AGEN": 550, "FIDN": 42797597, "FIDS": 5526, "LNAM": "0226028D0A1D1596", "CATPLE": 3, "SCAMIN": 89999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.3218995, 45.5398554 ] } }
+]
+}

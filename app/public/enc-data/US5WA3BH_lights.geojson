@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LIGHTS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 4, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 255878709, "FIDS": 3589, "LNAM": "02260F4066350E05", "CATLIT": [ ], "COLOUR": [ "3" ], "EXCLIT": 4, "HEIGHT": 11.5, "LITCHR": 2, "SIGGRP": "(1)", "SIGPER": 2.5, "SIGSEQ": "00.3+(02.2)", "VALNMR": 4.0, "SCAMIN": 59999, "SORDAT": "20191231", "SORIND": "US,US,reprt,13thCGD,LNM 53/19" }, "geometry": { "type": "Point", "coordinates": [ -122.0915633, 45.5861867 ] } },
+{ "type": "Feature", "properties": { "RCID": 5, "PRIM": 1, "GRUP": 2, "OBJL": 75, "RVER": 1, "AGEN": 550, "FIDN": 873298876, "FIDS": 12345, "LNAM": "0226340D7BBC3039", "CATLIT": [ ], "COLOUR": [ "4" ], "EXCLIT": 4, "LITCHR": 2, "SIGGRP": "(1)", "SIGPER": 2.5, "SIGSEQ": "00.3+(02.2)", "SCAMIN": 59999, "SORDAT": "20150113", "SORIND": "US,US,reprt,13thCGD,LNM 02/15" }, "geometry": { "type": "Point", "coordinates": [ -122.0973365, 45.58634 ] } }
+]
+}

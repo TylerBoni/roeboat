@@ -1,0 +1,65 @@
+# Svelte / Node.js
+/node_modules/
+/.svelte-kit/
+/build/
+/dist/
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Capacitor
+/android/
+/ios/
+/resources/
+/www/
+capacitor.config.json
+capacitor.config.ts
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - JetBrains (WebStorm, IntelliJ, etc)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+/coverage/
+/playwright-report/
+/test-results/
+/temp-enc/
+
+# Build artifacts
+*.tsbuildinfo
+.vercel
+.netlify
+.output/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Local development
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NAVLNE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 831, "PRIM": 2, "GRUP": 2, "OBJL": 85, "RVER": 1, "AGEN": 550, "FIDN": 638502162, "FIDS": 2009, "LNAM": "0226260EC51207D9", "CATNAV": 3, "ORIENT": 57.1, "SCAMIN": 59999, "SORDAT": "20210203", "SORIND": "US,US,reprt,13thCGD,LNM 05/21" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.0959913, 45.5860732 ], [ -122.0652934, 45.6 ] ] } }
+]
+}

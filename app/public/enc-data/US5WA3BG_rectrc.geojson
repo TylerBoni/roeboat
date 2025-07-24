@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RECTRC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1017, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": -517305960, "FIDS": 12345, "LNAM": "0226E12A89983039", "CATTRK": 1, "ORIENT": 98.5, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.1363529, 45.5836918 ], [ -122.1150671, 45.5814725 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1018, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": 683296631, "FIDS": 12345, "LNAM": "022628BA47773039", "CATTRK": 1, "ORIENT": 77.9, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.175, 45.5779064 ], [ -122.1372722, 45.583587 ], [ -122.1364656, 45.5837084 ] ] } }
+]
+}

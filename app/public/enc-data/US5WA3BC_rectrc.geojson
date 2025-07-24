@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "RECTRC",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1455, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": 771600, "FIDS": 1, "LNAM": "0226000BC6100001", "CATTRK": 1, "ORIENT": 111.9, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4419896, 45.5758551 ], [ -122.4401726, 45.5753367 ], [ -122.4392871, 45.575084 ], [ -122.4381527, 45.5747603 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1456, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": 771851, "FIDS": 1, "LNAM": "0226000BC70B0001", "CATTRK": 1, "ORIENT": 110.7, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.475, 45.5789845 ], [ -122.4742457, 45.5787828 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1457, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": 80719, "FIDS": 1, "LNAM": "022600013B4F0001", "CATTRK": 1, "ORIENT": 290.4, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4409091, 45.5640502 ], [ -122.4411981, 45.5641251 ], [ -122.4531173, 45.5672127 ], [ -122.4535447, 45.5673234 ], [ -122.4535618, 45.5673278 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1458, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": 91206238, "FIDS": 5460, "LNAM": "0226056FB25E1554", "CATTRK": 1, "ORIENT": 128.7, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "20231108", "SORIND": "US,US,reprt,13thCGD,LNM 45/23" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4737791, 45.5786581 ], [ -122.4535618, 45.5673278 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1459, "PRIM": 2, "GRUP": 2, "OBJL": 109, "RVER": 1, "AGEN": 550, "FIDN": 241676579, "FIDS": 5460, "LNAM": "02260E67B1231554", "CATTRK": 1, "ORIENT": 256.0, "TRAFIC": 3, "SCAMIN": 59999, "SORDAT": "20231108", "SORIND": "US,US,reprt,13thCGD,LNM 45/23" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4010217, 45.571042 ], [ -122.4409091, 45.5640502 ] ] } }
+]
+}

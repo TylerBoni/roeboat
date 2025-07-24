@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "PIPSOL",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 356, "PRIM": 2, "GRUP": 2, "OBJL": 94, "RVER": 1, "AGEN": 550, "FIDN": 910532188, "FIDS": 5526, "LNAM": "022636459E5C1596", "CATPIP": [ "4" ], "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.3924506, 45.5773971 ], [ -122.3925157, 45.5771608 ], [ -122.3925856, 45.5769065 ], [ -122.3927768, 45.5762121 ], [ -122.3929883, 45.5754434 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 357, "PRIM": 2, "GRUP": 2, "OBJL": 94, "RVER": 1, "AGEN": 550, "FIDN": 403592111, "FIDS": 5526, "LNAM": "0226180E53AF1596", "CATPIP": [ "4" ], "SCAMIN": 59999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.3512448, 45.573998 ], [ -122.3515965, 45.5735766 ], [ -122.3516546, 45.573507 ], [ -122.3516742, 45.5734835 ] ] } }
+]
+}

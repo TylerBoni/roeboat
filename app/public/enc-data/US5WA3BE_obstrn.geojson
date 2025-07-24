@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "OBSTRN",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 29, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 134880625, "FIDS": 5526, "LNAM": "0226080A1D711596", "CATOBS": 6, "QUASOU": [ "2" ], "WATLEV": 4, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.3187881, 45.5518837 ], [ -122.3187276, 45.5517582 ], [ -122.3185456, 45.5516231 ], [ -122.3180647, 45.5515169 ], [ -122.3174533, 45.5514518 ], [ -122.3170274, 45.5513335 ], [ -122.3165775, 45.5512804 ], [ -122.3163164, 45.5512394 ], [ -122.316076, 45.5512297 ], [ -122.3160234, 45.5512478 ], [ -122.3162015, 45.5513789 ], [ -122.3164987, 45.5514382 ], [ -122.317941, 45.5517155 ], [ -122.3187881, 45.5518837 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 30, "PRIM": 3, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 677046439, "FIDS": 5526, "LNAM": "0226285AE8A71596", "CATOBS": 6, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.325, 45.5532317 ], [ -122.3246802, 45.5531256 ], [ -122.3245153, 45.5530773 ], [ -122.3243333, 45.5530556 ], [ -122.3241347, 45.5531978 ], [ -122.325, 45.5534757 ], [ -122.325, 45.5532317 ] ] ] } },
+{ "type": "Feature", "properties": { "RCID": 31, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 398650123, "FIDS": 5526, "LNAM": "022617C2EB0B1596", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.3077871, 45.5580663 ] } },
+{ "type": "Feature", "properties": { "RCID": 32, "PRIM": 1, "GRUP": 2, "OBJL": 86, "RVER": 1, "AGEN": 550, "FIDN": 910572648, "FIDS": 5526, "LNAM": "022636463C681596", "CATOBS": 1, "QUASOU": [ "2" ], "WATLEV": 3, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.2678706, 45.5544489 ] } }
+]
+}

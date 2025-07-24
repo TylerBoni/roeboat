@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "BOYLAT",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 6, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 255874688, "FIDS": 3589, "LNAM": "02260F4056800E05", "BOYSHP": 2, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Multnomah Falls Buoy 79", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20040809", "SORIND": "US,US,reprt,13thCGD,ATONIS" }, "geometry": { "type": "Point", "coordinates": [ -122.1252019, 45.5829292 ] } },
+{ "type": "Feature", "properties": { "RCID": 7, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 972671164, "FIDS": 8664, "LNAM": "022639F9C8BC21D8", "LNAM_REFS": [ "02261F6038D421D8" ], "FFPT_RIND": [ 2 ], "BOYSHP": 2, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Prixie Dike Lighted Buoy 73", "SCAMIN": 59999, "SORDAT": "20240206", "SORIND": "US,US,reprt,13thCGD,LNM 06/2024" }, "geometry": { "type": "Point", "coordinates": [ -122.1584133, 45.5826183 ] } },
+{ "type": "Feature", "properties": { "RCID": 8, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 255874687, "FIDS": 3589, "LNAM": "02260F40567F0E05", "BOYSHP": 2, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Fashion Reef Buoy 75", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20190402", "SORIND": "US,US,reprt,13thCGD,LNM 14/19" }, "geometry": { "type": "Point", "coordinates": [ -122.1411814, 45.5840917 ] } },
+{ "type": "Feature", "properties": { "RCID": 9, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 153782006, "FIDS": 4270, "LNAM": "0226092A86F610AE", "LNAM_REFS": [ "0226092A8B2510AE" ], "FFPT_RIND": [ 2 ], "BOYSHP": 4, "CATLAM": 1, "COLOUR": [ "4" ], "OBJNAM": "Multnomah Falls Lighted Buoy 83", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20090421", "SORIND": "US,US,reprt,13thCGD,LNM 16/09" }, "geometry": { "type": "Point", "coordinates": [ -122.108975, 45.5828958 ] } },
+{ "type": "Feature", "properties": { "RCID": 10, "PRIM": 1, "GRUP": 2, "OBJL": 17, "RVER": 1, "AGEN": 550, "FIDN": 255881526, "FIDS": 3589, "LNAM": "02260F4071360E05", "LNAM_REFS": [ "02260F4066280E05" ], "FFPT_RIND": [ 2 ], "BOYSHP": 4, "CATLAM": 2, "COLOUR": [ "3" ], "OBJNAM": "Fashion Reef Lighted Buoy 76", "STATUS": [ "1" ], "SCAMIN": 59999, "SORDAT": "20041129", "SORIND": "US,US,reprt,13thCGD,ATONIS" }, "geometry": { "type": "Point", "coordinates": [ -122.1336779, 45.5826231 ] } }
+]
+}

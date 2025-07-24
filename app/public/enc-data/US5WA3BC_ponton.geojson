@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "PONTON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1477, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 661755550, "FIDS": 58109, "LNAM": "02262771969EE2FD", "SCAMIN": 44999, "SORDAT": "20240913", "SORIND": "US,US,graph,GC-12052" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4530053, 45.5786656 ], [ -122.4530654, 45.5785599 ], [ -122.4531197, 45.5784335 ], [ -122.4533262, 45.5784848 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1478, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 192187888, "FIDS": 58109, "LNAM": "02260B748DF0E2FD", "SCAMIN": 44999, "SORDAT": "20240913", "SORIND": "US,US,graph,GC-12052" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4549246, 45.578983 ], [ -122.4550227, 45.5787721 ], [ -122.455184, 45.5788078 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1479, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": 1760348889, "FIDS": 58109, "LNAM": "022668ECCAD9E2FD", "SCAMIN": 44999, "SORDAT": "20240913", "SORIND": "US,US,graph,GC-12052" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4583187, 45.5798409 ], [ -122.4584824, 45.5795606 ], [ -122.4586178, 45.5796033 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1480, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -1529120711, "FIDS": 58109, "LNAM": "0226A4DB7839E2FD", "SCAMIN": 44999, "SORDAT": "20240913", "SORIND": "US,US,graph,GC-12052" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4586664, 45.5798833 ], [ -122.4587762, 45.5797455 ], [ -122.4585998, 45.5797023 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 1481, "PRIM": 2, "GRUP": 2, "OBJL": 95, "RVER": 1, "AGEN": 550, "FIDN": -735344943, "FIDS": 58109, "LNAM": "0226D42B86D1E2FD", "SCAMIN": 44999, "SORDAT": "20240913", "SORIND": "US,US,graph,GC-12052" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.4589505, 45.5798806 ], [ -122.4591187, 45.579687 ], [ -122.4592793, 45.5797335 ] ] } }
+]
+}

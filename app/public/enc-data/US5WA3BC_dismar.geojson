@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DISMAR",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1293, "PRIM": 1, "GRUP": 2, "OBJL": 44, "RVER": 1, "AGEN": 550, "FIDN": 49698384, "FIDS": 5526, "LNAM": "022602F656501596", "CATDIS": 1, "INFORM": "Statute mile 120", "SCAMIN": 44999, "SORDAT": "201206", "SORIND": "US,US,graph,Chart 18531" }, "geometry": { "type": "Point", "coordinates": [ -122.4133969, 45.5688641 ] } }
+]
+}
